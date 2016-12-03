@@ -1,4 +1,9 @@
-##IMPROVE YOUR COMMIT COMMENTS
+--- 
+layout: post 
+title: Improve Your Commit Messages 
+--- 
+
+## IMPROVE YOUR COMMIT MESSAGES
 
 In writing this I realized that this is **not** a sexy topic. This is probably due more to the fact that no one really
 complains or cares about it. However, having worked on several projects and with many people, I have come to realize that 

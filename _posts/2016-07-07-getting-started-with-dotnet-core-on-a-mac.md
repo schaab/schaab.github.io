@@ -1,3 +1,8 @@
+--- 
+layout: post 
+title: Getting Started with dotnet core on a mac
+--- 
+
 Shameless plug - I am co-presenting a workshop with my colleague [Beau Palmquist][1] at [dotnet Fringe][2] this Sunday July 10, 2016. Our workshop is on [Building Smart Microservice Clients with React, Redux, and React-Router][3].
 
 In preparation, I was setting up my Macbook and realized there were no real good instructions on how to get set up with .NET Core on a Mac. Maybe this is because it is so new or maybe because it is so ridiculously easy. Steps 1 and 2 are optional to get the `helloworld` app up and running. We don't actually need to write any code. These steps are for after when you want to get fancier.
