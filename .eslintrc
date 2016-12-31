@@ -1,0 +1,14 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "indent": [2, 2, {"SwitchCase": 1}],
+    "no-console": [0],
+    "func-names": [0],
+    "no-extra-semi": [2],
+    "space-before-function-paren": [2, "always"],
+    "no-else-return": [0],
+    "space-infix-ops": [0],
+    "import/no-unresolved": [0],
+    "global-require": [0],
+  },
+}

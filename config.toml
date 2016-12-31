@@ -1,0 +1,11 @@
+siteTitle = "Tech Musings by Jared Schaab"
+siteDescr = ""
+siteAuthor = "Jared Schaab"
+
+siteTwitterUrl = "https://twitter.com/JaredSchaab"
+siteGithubUrl = "https://github.com/schaab"
+siteEmailUrl = "jared.schaab@gmail.com"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
