@@ -13,7 +13,7 @@
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "lint-fix": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public --fix .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public"
+    "deploy": "gatsby build && gh-pages --dist public --branch master"
   },
   "keywords": [
     "gatsby",
